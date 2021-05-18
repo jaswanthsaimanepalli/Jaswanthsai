@@ -20,4 +20,14 @@ what i did until this point
       . <- commit       }
      / 
     . <- branch (this is something you tried to worked it on)
-    
+what i did is that i merged the branch into the main
+and now i am adding this text directly to main
+      . <- commit       }
+      |                 |
+      . <- commit       | --- this is main
+      |                 | 
+      . <- commit       }
+     / 
+    . <- branch 
+     \
+      . melging into main
