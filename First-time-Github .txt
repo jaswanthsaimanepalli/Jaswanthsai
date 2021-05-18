@@ -9,3 +9,15 @@ git-version control software which keeps track of all changes that are done in y
 github- it is a userface which handles the git.
 Repo-It is like creating a new project
 Commit-saving the work done.
+what is this creating a branch mean?
+you have an idea and think that you don't know it really works or it is a good idea or not
+for that u can have mutliple branches and check which really suits this.
+what i did until this point
+      . <- commit       }
+      |                 |
+      . <- commit       | --- this is main
+      |                 | 
+      . <- commit       }
+     / 
+    . <- branch (this is something you tried to worked it on)
+    
