@@ -1,3 +1,5 @@
 This is my first repo
 I am currently understanding how this repo works
 more attention in doing this.
+see now I am editing this file.
+this is my first edit in github.
