@@ -5,3 +5,7 @@ see now I am editing this file.
 this is my first edit in github.
 this is my second edit
 getting the flavour of using it
+git-version control software which keeps track of all changes that are done in your project
+github- it is a userface which handles the git.
+Repo-It is like creating a new project
+Commit-saving the work done.
